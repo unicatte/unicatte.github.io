@@ -20,6 +20,8 @@ html{
     }
     .pimage{
         float: right;
+        padding-left: 2em;
+        padding-bottom: 2em;
     }
     .content{
         padding: 75px;
