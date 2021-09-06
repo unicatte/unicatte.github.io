@@ -1,6 +1,6 @@
 Introducing Shoddy Blog!
 
-![unicatte's Wonderland Online character waving at the viewer](../data/blog-intro/wlo-waving.png)
+![unicatte's Wonderland Online character waving at the viewer](../data/blog-intro/wlo-waving.gif)
 
 Welcome to the official blog of Shoddy Infrastructures - the Shoddy Blog, because how else would I call it?
 
