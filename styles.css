@@ -56,8 +56,9 @@ a:visited{
     margin-left: auto;
     margin-right: auto;
     height: auto;
-    width: 100%
+    width: 100%;
     max-height: 250px;
+    object-fit: contain;
 }
 .pimage img{
     width:100%;
