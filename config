@@ -1,0 +1,7 @@
+BLOG_DATE_FORMAT_INDEX:=%F
+BLOG_DATE_FORMAT:=%F %T
+BLOG_TITLE:=Shoddy Blog
+BLOG_DESCRIPTION:=Shoddy Blog
+BLOG_URL_ROOT:=https://unicatte.gitlab.io/blog
+BLOG_FEEDS:=
+BLOG_SRC:=src
