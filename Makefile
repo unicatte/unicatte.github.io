@@ -42,7 +42,6 @@ init:
 	printf '' > templates/tag_index_footer.html
 	printf '<h1>$$TITLE</h1>' > templates/article_header.html
 	printf '' > templates/article_footer.html
-	printf 'blog\n' > .git/info/exclude
 
 build: blog/index.html tagpages $(patsubst $(BLOG_SRC)/%.md,blog/%.html,$(ARTICLES)) $(patsubst %,blog/%.xml,$(BLOG_FEEDS))
 
