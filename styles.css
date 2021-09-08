@@ -68,6 +68,12 @@ a:visited{
 .footer{
     padding-top: 50px;
 }
+.article_header{
+    margin-bottom: 2em;
+}
+.article_header h2{
+    margin-bottom: 0px;
+}
 .twa-uni-flag {
   display: inline-block;
   height: 1em;
