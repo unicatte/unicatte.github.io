@@ -52,6 +52,10 @@ a{
 a:visited{
     color: #9a63be;
 }
+ol a{
+    word-break: break-all;
+    white-space: pre-wrap;
+}
 .pimage{
     width: 250px;
 }
