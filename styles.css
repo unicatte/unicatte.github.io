@@ -35,6 +35,17 @@ body{
     background-size: cover;
     background-color: #26242c;
 }
+code{
+    color: #8f6a7f;
+}
+pre{
+    background-color: black;
+    border:#a8919e solid 1px;
+    padding: 10px;
+    word-break: break-all;
+    white-space: pre-wrap;
+    width: 100%;
+}
 a{
     color: #686fb8;
 }
