@@ -130,4 +130,4 @@ Sources:
 1. Translated Russian Clover guide, [https://drovosek01.github.io/CloverHackyColor-WebVersion/english/from%20Word/Clover_Of_Khaki_Color_eng_5129.htm](https://drovosek01.github.io/CloverHackyColor-WebVersion/english/from%20Word/Clover_Of_Khaki_Color_eng_5129.htm)
 2. Clover install script by m13253, [https://github.com/m13253/clover-linux-installer/blob/master/install.sh](https://github.com/m13253/clover-linux-installer/blob/master/install.sh).
 
-;tags: tech, linux, clover
+;tags: tech linux clover
