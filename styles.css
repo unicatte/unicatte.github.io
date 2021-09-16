@@ -36,9 +36,11 @@ body{
     background-color: #26242c;
 }
 code{
+    font-family: Courier, monospace;
     color: #8f6a7f;
 }
 pre{
+    font-family: Courier, monospace;
     display: block;
     background-color: black;
     border:#a8919e solid 1px;
