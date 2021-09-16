@@ -126,6 +126,8 @@ You might need to look into the `config.plist` file to have your new bootloader 
 
 Congratulations! You have successfully installed Clover and used it to boot an UEFI operating system on a legacy BIOS computer.
 
+**EDIT (2021-09-16)**: Fixed tags.
+
 Sources:
 1. Translated Russian Clover guide, [https://drovosek01.github.io/CloverHackyColor-WebVersion/english/from%20Word/Clover_Of_Khaki_Color_eng_5129.htm](https://drovosek01.github.io/CloverHackyColor-WebVersion/english/from%20Word/Clover_Of_Khaki_Color_eng_5129.htm)
 2. Clover install script by m13253, [https://github.com/m13253/clover-linux-installer/blob/master/install.sh](https://github.com/m13253/clover-linux-installer/blob/master/install.sh).
